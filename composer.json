@@ -1,7 +1,7 @@
 {
     "name": "vumatech/laraflow",
     "description": "Integerate Symfony Workflow component into Laravel. a fork from zeroahero",
-    "keywords": ["workflow", "symfony", "laravel", "laravel7", "laravel8"],
+    "keywords": ["workflow", "symfony", "laravel", "laravel7", "laravel8","laraflow"],
     "license": "MIT",
     "require": {
         "php": ">=7.2",
